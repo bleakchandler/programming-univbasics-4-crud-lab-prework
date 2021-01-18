@@ -21,7 +21,7 @@ end
 def remove_element_from_end_of_array(array)
    newarray = ["wow", "I", "am", "really"]
    revisedarray = newarray.pop
-   newarray [2]
+   newarray [3]
 end
 
 def remove_element_from_start_of_array(array)
