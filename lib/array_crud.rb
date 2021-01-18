@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  newarray = ["Mario", "Link", "Kirby", "Samus"]
+  newarray = ["wow", "I", "am", "really", "learning"]
   
 end
 
 def add_element_to_end_of_array(array, element)
-   newarray = ["Mario", "Link", "Kirby", "Samus"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    newarray.push "arrays!"
   
 end
@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-   newarray = ["Mario", "Link", "arrays!", "Samus"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    revisedarray = newarray.pop
    newarray [2]
 end
