@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-   newarray = ["wow", "I", "am", "arrays!"]
+   newarray = ["wow", "I", "am", "arrays!", "learning"]
    revisedarray = newarray.pop
    newarray [3]
 end
