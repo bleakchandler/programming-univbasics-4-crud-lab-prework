@@ -41,7 +41,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-   newarray = ["wow", "I", "am", "really"]
+   newarray = ["wow", "I'm", "learning", "arrays!"]
    newarray [3]
 end
 
