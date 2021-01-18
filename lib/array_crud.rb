@@ -25,27 +25,27 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-   newarray = ["Mario", "wow", "Kirby", "Samus"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    revisedarray = newarray.shift
      newarray [0]
 end
 
 def retrieve_element_from_index(array, index_number)
-   newarray = ["Mario", "wow", "am", "Samus"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    newarray [2]
 end
 
 def retrieve_first_element_from_array(array)
-   newarray = ["wow", "Link", "Kirby", "Samus"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    newarray [0]
 end
 
 def retrieve_last_element_from_array(array)
-   newarray = ["Mario", "Link", "Kirby", "arrays!"]
+   newarray = ["wow", "I", "am", "really", "learning"]
    newarray [3]
 end
 
 def update_element_from_index(array, index_number, element)
- newarray = ["Mario", "Link", "Kirby", "Samus", "King DeDeDe"]
+ newarray = ["wow", "I", "am", "really", "learning"]
  newarray[4] = "totally"
 end
